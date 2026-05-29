@@ -26,6 +26,7 @@ available_languages = [
     "ja-JP",
     "ko-KR",
     "nl-NL",
+    "pl-PL",
     "pt-BR",
     "ru-RU",
     "tr-TR",
